@@ -40,12 +40,14 @@
             }
         });
         return this;
-    };    
+    };
 
     // Apply SWE to all elements with swe data
     $(document).on('DOMSubtreeModified', '[data-swe!=""]', function () {
         // Run the plugin
         $(this).swe();
+    }).ready(function () {
+        // Run the plugin
+        $('[data-swe!=""]').swe();
     });
-
 }( jQuery ));
