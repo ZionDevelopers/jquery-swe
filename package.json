@@ -1,0 +1,23 @@
+{
+  "name": "show-when-empty",
+  "version": "0.0.0",
+  "description": "A jquery plugin that show an element when other is empty",
+  "main": "jquery.swe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZionDevelopers/jquery.swe.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "Júlio C. Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZionDevelopers/jquery.swe/issues"
+  },
+  "homepage": "https://github.com/ZionDevelopers/jquery.swe#readme"
+}
