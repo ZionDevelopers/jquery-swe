@@ -6,7 +6,7 @@ A jQuery plugin that show an element when other is empty.
 <div id="myPhotosEmpty" style="display: none">
 You don't have any photos yet. :-(
 </div>
-<div id="myPhotos" data-swe="myPhotosEmpty">
+<div id="myPhotos" data-swe="div#myPhotosEmpty">
 <!-- Your Photos go here -->
 </div>
 ```
