@@ -1,6 +1,6 @@
 {
-  "name": "jquery.swe",
-  "version": "0.0.3",
+  "name": "jquery-swe",
+  "version": "0.0.4",
   "description": "Show When Empty is a jquery plugin that show an element when other is empty",
   "main": "jquery-swe.js",
   "repository": {
