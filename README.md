@@ -1,5 +1,3 @@
-# jquery-swe
-
 A jQuery plugin that show an element when other is empty.
 
 ```html
