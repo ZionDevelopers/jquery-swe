@@ -1,11 +1,11 @@
 {
-  "name": "jquery.swe",
+  "name": "jquery-swe",
   "version": "0.0.0",
   "description": "Show When Empty is a jquery plugin that show an element when other is empty.\nJust create a element like div#exampleMaster then add data-swe='div#example' then create the element that you want to show when the master element is empty like div#example with style='display: hidden' and you are ready to go!",
-  "main": "jquery.swe.js",
+  "main": "jquery-swe.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZionDevelopers/jquery.swe.git"
+    "url": "git+https://github.com/ZionDevelopers/jquery-swe.git"
   },
   "keywords": [
     "jquery-plugin",
@@ -13,8 +13,11 @@
   ],
   "author": "Júlio C. Oliveira",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ZionDevelopers/jquery.swe/issues"
+  "dependencies": {
+    "jquery": "^1.10.0"
   },
-  "homepage": "https://github.com/ZionDevelopers/jquery.swe#readme"
+  "bugs": {
+    "url": "https://github.com/ZionDevelopers/jquery-swe/issues"
+  },
+  "homepage": "https://github.com/ZionDevelopers/jquery-swe#readme"
 }
