@@ -14,7 +14,7 @@
   "author": "Júlio C. Oliveira",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^1.10.0"
+    "jquery": "^1.12.4"
   },
   "bugs": {
     "url": "https://github.com/ZionDevelopers/jquery-swe/issues"
